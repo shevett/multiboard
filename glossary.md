@@ -20,16 +20,17 @@
   * Multigrid T-Bolt (Bin to Grid t-bolt? Not sure how different than 'small thread t-bolts') https://than.gs/m/973872 
   * Big, Mid, and Small thread T-bolts https://www.multiboard.io/parts-library/bolts 
 * Bin
+  * A type of storage item that either sits on a multigrid, on a shelf, or hangs directly from the tile.
 * Shelf
-
+  * A component that attaches to a tile and can support a grid or bins
 * Multigrid
   * Multigrid refers to the stack of components that usually are stored flat.  An [overview is available on the knowledgebase page](https://www.multiboard.io/knowledge-hub/multigrid) But in a nutshell:
-   * A base plate or a grid is the foundation.  It can stand alone or be attached to a Multiboard Tile
-   * A Panel is a simplified baseplate that can also be attached, but doesn't have the extra strenghening layers
+    * A base plate or a grid is the foundation.  It can stand alone or be attached to a Multiboard Tile
+    * A Panel is a simplified baseplate that can also be attached, but doesn't have the extra strenghening layers
 
 Types of Hangers and Hooks
 * Multiconnect ( https://www.printables.com/model/716558-multiconnect-general-connector-for-your-board/files )
- * This uses a type of fastener that has a flat shaped disc on it, that slots into the back of components.  It's a very convnient way of hanging items onto your grid.
+  * This uses a type of fastener that has a flat shaped disc on it, that slots into the back of components.  It's a very convnient way of hanging items onto your grid.
   
 Hole types
 * Pegboard Holes
