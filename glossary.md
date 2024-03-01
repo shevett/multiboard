@@ -1,12 +1,14 @@
-Systems and Concepts
+# Systems and Concepts
 * Multiboard ( https://multiboard.io )
   * The modular, free 3d printed storage system created by Jonathan (Keep Making on Youtube).  This is the generic term for components that are designed to interface with the Multiboard standard 25mm panels.
-* Multigrid
-  * A Multigrid is a type of panel that is part of Multiboard.  It is designed to be be an orginization surface for holding bins. ( https://than.gs/m/974173 )
-* Gridfinity - A modular storage system based on (surprisingly) a 3d printed grid. See https://gridfinity.xyz/ for details.
-* Honeycomb - Another hex-based storage system.  There are adapters and other pieces available to use Honeycomb components with Multiboard.
+* Gridfinity ( https://gridfinity.xyz/ )
+  * A modular storage system based on (surprisingly) a 3d printed grid. See  for details.
+* Honeycomb ( https://www.printables.com/model/152592-honeycomb-storage-wall )
+  * Another hex-based storage system.  There are adapters and other pieces available to use Honeycomb components with Multiboard.
 
-High level components
+# High level components
+* Tile
+  * The basic component of the wall hanging portion of Multiboard, a Tile is a flat board of hexagonal openings (called 'Multiholes') and pegboard holes that can have a variety of pieces snapped onto it.  Tiles can be joined together to form large scale arrays for storage.
 * Grid
 * Panel
 * Snap
@@ -17,6 +19,15 @@ High level components
   * Big, Mid, and Small thread T-bolts https://www.multiboard.io/parts-library/bolts 
 * Bin
 * Shelf
+
+* Multigrid
+  * Multigrid refers to the stack of components that usually are stored flat.  An [overview is available on the knowledgebase page](https://www.multiboard.io/knowledge-hub/multigrid) But in a nutshell:
+   * A base plate or a grid is the foundation.  It can stand alone or be attached to a Multiboard Tile
+   * A Panel is a simplified baseplate that can also be attached, but doesn't have the extra strenghening layers
+
+Types of Hangers and Hooks
+* Multiconnect ( https://www.printables.com/model/716558-multiconnect-general-connector-for-your-board/files )
+ * This uses a type of fastener that has a flat shaped disc on it, that slots into the back of components.  It's a very convnient way of hanging items onto your grid.
   
 Hole types
 * Pegboard Holes
