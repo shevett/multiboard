@@ -12,7 +12,9 @@
 * Grid
 * Panel
 * Snap
+  * A Snap is basically anything that snaps into a tile.  It is hex shaped, and plug sinto the tile without needing to be screwed in.  Snaps tend to be very easy to work with, and can plug and unplug easily.  For stronger items for a tile, use heavy threaded components.
 * Bolt
+  * A Bolt is a threaded component that screws into either a Multihole or a Pegboard hole.  Bolts can come in a variety of head types and shapes.
 * Fastener
 * T-Bolt - A t-shaped bolt that screws into either a 
   * Multigrid T-Bolt (Bin to Grid t-bolt? Not sure how different than 'small thread t-bolts') https://than.gs/m/973872 
