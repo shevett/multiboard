@@ -4,6 +4,7 @@ This is the UNOFFICIAL opensource Multiboard documentation repository.  People a
 
 Resources:
 * [Glossary](glossary.md) - Confused by all the different parts and terms?  The Glossary will help you figure things out
+* [Tutorials](tutorials/) - Basic walkthroughs for building specific multiboard configurations.
 
 Multiboard home page:
 * [multiboard.io](https://multiboard.io) - The official website and awesome work done by Jonathan (Keep Making).
