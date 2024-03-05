@@ -1,5 +1,5 @@
 # Basic layouts
 * [A 4 tile basic wall display](basicdisplay/)
-* [A toolbin using multiconnect](multiconnect_toolbin/)
+* [A toolbin using multiboard connectors](multiboard_connector_toolbin/)
 
 
