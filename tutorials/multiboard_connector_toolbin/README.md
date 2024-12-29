@@ -4,9 +4,9 @@ This tutorial describes how to install hanging bins on your multiboard using mul
 
 ##Parts list
 
-* [core tile] ( https://than.gs/m/974214 ) (or an existing built set of tiles, see [the basic display tutorial] ( ../basicdisplay/ ))
-* [bins] ( https://www.printables.com/model/728933 )
-* [multiconnect connectors] ( https://www.printables.com/model/716558-multiconnect-general-connector-for-your-board )
+* [core tile](https://than.gs/m/974214) (or an existing built set of tiles, see [the basic display tutorial](../basicdisplay/))
+* [bins](https://www.printables.com/model/728933)
+* [multiconnect connectors](https://www.printables.com/model/716558-multiconnect-general-connector-for-your-board)
 
 ## Steps
 1. Print all the components
