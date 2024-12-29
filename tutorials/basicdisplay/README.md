@@ -6,9 +6,9 @@ This tutorial describes creating a simple 4 tile Multiboard.
 
 ### Tiles:
 
-* 1 [core tile] ( https://than.gs/m/974214 )
-* 1 [corner tile] ( https://than.gs/m/973975 )
-* 2 [side tiles] ( https://than.gs/m/973831 )
+* 1 [core tile](https://than.gs/m/974214)
+* 1 [corner tile](https://than.gs/m/973975)
+* 2 [side tiles](https://than.gs/m/973831)
 
 ### Connectors:
 
