@@ -8,8 +8,9 @@ This is the UNOFFICIAL opensource Multiboard documentation repository.  People a
 * [Glossary](glossary.md) - Confused by all the different parts and terms?  The Glossary will help you figure things out
 * [Tutorials](tutorials/) - Basic walkthroughs for building specific multiboard configurations.
 
-### Multiboard home page:
+### Multiboard official pages:
 * [multiboard.io](https://multiboard.io) - The official website and awesome work done by Jonathan (Keep Making).
+* [Multiboard Youtube channel](https://www.youtube.com/@multiboard_io) - The official youtube channels that has great explanations of some of the components
 
 ### Videos:
 * [Introduction to Multiboard](https://www.youtube.com/watch?v=sbbJ0pUYp8U) - The original video going over hte basics of Multiboard
