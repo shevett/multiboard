@@ -23,3 +23,8 @@ This is the UNOFFICIAL opensource Multiboard documentation repository.  People a
 This repo and documentation are available as opensource and are not meant to replace or override the existing documentation on [multiboard.io](https://multiboard.io) but are instead set up as a resource for new builders to have a place to share ideas, and to provide an additional documentation source for aspiring makers.
 
 Got questions?  Feel free to drop a mail to info@stonekeep.com
+
+<p>Last updated: <span id="last-modified"></span></p>
+<script>
+  document.getElementById("last-modified").textContent = document.lastModified;
+</script>
